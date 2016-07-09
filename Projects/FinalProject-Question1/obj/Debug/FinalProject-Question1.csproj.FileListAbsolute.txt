@@ -1,6 +1,0 @@
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\bin\Debug\FinalProject-Question1.exe.config
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\bin\Debug\FinalProject-Question1.exe
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\bin\Debug\FinalProject-Question1.pdb
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\obj\Debug\FinalProject-Question1.csprojResolveAssemblyReference.cache
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\obj\Debug\FinalProject-Question1.exe
-P:\C-Sharp-Final\FinalProject-Question1\FinalProject-Question1\FinalProject-Question1\obj\Debug\FinalProject-Question1.pdb
