@@ -1,0 +1,5 @@
+Type: Book Year: 1891 Title: This is book 11 ISBN:1234567890 Pages: 500 Authors: Smith, John;Brown, Jack
+Type: eBook Year: 1892 Title: This is ebook 11 ISBN:1313131313 Pages: 1511 Authors: eSmith, John;eBrown, Jack File:ebook1
+Type: AudioBook Year: 1893 Title: This is AudioBook 11 ISBN:1414141414 DiscType:DVD Seconds: 2000 
+Type: Music Year: 1894 Title: This is Music 11 DiscType:CD Seconds: 2220 
+Type: Movie Year: 1895 Title: This is Movie 11 DiscType:BlueRay Seconds: 2520
