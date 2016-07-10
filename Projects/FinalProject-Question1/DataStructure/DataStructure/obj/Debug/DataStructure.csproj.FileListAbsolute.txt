@@ -1,0 +1,6 @@
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+P:\C-Sharp-Final\FinalProject-Question1\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
